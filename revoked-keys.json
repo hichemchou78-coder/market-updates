@@ -1,5 +1,8 @@
 {
-  "revocations": {},
-  "signature": "fbac80c0",
-  "updatedAt": "2026-05-22T10:37:44.911Z"
+  "revocations": {
+    "C8C78936": 999,
+    "41C7E088": 999
+  },
+  "signature": "02E5FC71",
+  "updatedAt": "2026-05-22T10:53:36.361Z"
 }
