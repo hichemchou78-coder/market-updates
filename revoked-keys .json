@@ -1,8 +1,9 @@
 {
   "revocations": {
     "C8C78936": 999,
-    "41C7E088": 999
+    "41C7E088": 999,
+    "41C736BA": 999
   },
-  "signature": "02E5FC71",
-  "updatedAt": "2026-05-22T11:19:21.469Z"
+  "signature": "A48682CB",
+  "updatedAt": "2026-05-22T15:24:12.609Z"
 }
