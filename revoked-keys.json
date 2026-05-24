@@ -1,6 +1,15 @@
 {
-  "revocations": {
-    "466BE220": 1779633348385
-  },
-  "updatedAt": "2026-05-24T14:35:48.385Z"
+  "repository": "hichemchou78-coder/market-updates",
+  "path": "market-updates/revoked-keys.json",
+  "last_updated": "2026-05-24T21:05:59.767Z",
+  "engine_version": "v4-Ultra",
+  "revoked_devices": [
+    {
+      "hwid_raw": "5A0EB7F1D612B495",
+      "hwid_formatted": "5A0E-B7F1-D612-B495",
+      "associated_key": "DZ05-5A0EB7F1D612B495-6085-466BE220",
+      "reason": "Cloud Revocation / Remote Ban",
+      "status": "revoked"
+    }
+  ]
 }
