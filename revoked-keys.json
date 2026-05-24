@@ -1,7 +1,12 @@
 {
+  "revocations": {
+    "466BE220": 999
+  },
+  "signature": "8A79C1EB",
+  "updatedAt": "2026-05-24T22:16:56.712Z",
   "repository": "hichemchou78-coder/market-updates",
   "path": "market-updates/revoked-keys.json",
-  "last_updated": "2026-05-24T22:10:48.652Z",
+  "last_updated": "2026-05-24T22:16:56.712Z",
   "engine_version": "v4-Ultra",
   "revoked_devices": [
     {
