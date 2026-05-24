@@ -1,7 +1,11 @@
 {
   "repository": "hichemchou78-coder/market-updates",
-  "path": "market-updates/revoked-keys.json",
-  "last_updated": "2026-05-24T21:27:31.204Z",
-  "engine_version": "v4-Ultra",
-  "revoked_devices": []
+  "last_updated": "2026-05-24T21:37:53.387Z",
+  "revoked_devices": [
+    {
+      "hwid_raw": "5A0EB7F1D612B495",
+      "associated_key": "DZ05-5A0EB7F1D612B495-6085-466BE220",
+      "status": "revoked"
+    }
+  ]
 }
