@@ -1,10 +1,12 @@
 {
-  "revocations": {},
-  "signature": "AACC9E20",
-  "updatedAt": "2026-05-24T22:26:12.335Z",
-  "repository": "hichemchou78-coder/market-updates",
-  "path": "market-updates/revoked-keys.json",
-  "last_updated": "2026-05-24T22:26:12.335Z",
-  "engine_version": "v4-Ultra",
-  "revoked_devices": []
+  "revocations": {
+    "C8C78936": 999,
+    "41C7E088": 999,
+    "41C736BA": 999,
+    "0006BBB1": 999,
+    "E502C6A0": 999,
+    "C0D1BF68": 999
+  },
+  "signature": "0836584D",
+  "updatedAt": "2026-05-26T14:57:41.117Z"
 }
